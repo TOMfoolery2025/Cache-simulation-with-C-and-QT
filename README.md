@@ -109,3 +109,8 @@ Or just open it in Qt Creator and click Run.
 
 Thanks for checking out the CPU Cache Teaching Tool!\
 Hope it makes caching feel a lot less mysterious 🙂
+
+
+### Example
+Changes confirmation
+![example](./example.png)
